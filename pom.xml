@@ -44,10 +44,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:git:git://github.com/ifunsoftware/java-fast-md5.git</connection>
-        <developerConnection>scm:git:git://github.com/ifunsoftware/java-fast-md5.git</developerConnection>
-        <url>git@github.com:ifunsoftware/java-fast-md5.git</url>
-        <tag>HEAD</tag>
+        <connection>scm:git:ssh://github.com/ifunsoftware/java-fast-md5.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/ifunsoftware/java-fast-md5.git</developerConnection>
+        <url>https://github.com/ifunsoftware/java-fast-md5.git</url>
     </scm>
 
     <issueManagement>
