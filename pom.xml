@@ -47,8 +47,8 @@
         <connection>scm:git:ssh://github.com/ifunsoftware/java-fast-md5.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/ifunsoftware/java-fast-md5.git</developerConnection>
         <url>https://github.com/ifunsoftware/java-fast-md5.git</url>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <issueManagement>
         <system>github.com</system>
