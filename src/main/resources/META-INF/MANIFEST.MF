@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 Bundle-Version: 9.9.9.TO_BE_REPLACED
 Bundle-Name: Fast MD5
 Bundle-ManifestVersion: 2
-Bundle-SymbolicName: com.joyent.util.fast-md5
+Bundle-SymbolicName: com.ifunsoftware.fast-md5
 Export-Package: com.twmacinta.io, com.twmacinta.util
