@@ -59,7 +59,7 @@
         <repository>
             <id>ifunsoftware</id>
             <name>iFunSoftware release repository</name>
-            <url>http://repository.ifunsoftware.com/content/repositories/releases</url>
+            <url>http://repository.ifunsoftware.com/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>ifunsoftware-snap</id>
